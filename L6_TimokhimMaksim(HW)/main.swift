@@ -73,3 +73,5 @@ queue.inqueue(30)
 
 print(queue.filter({$0 < 20}))
 print(queue.map({Double($0)}))
+
+print("Спасибо за внимание")
